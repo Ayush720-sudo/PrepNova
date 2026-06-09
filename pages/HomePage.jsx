@@ -5,7 +5,7 @@ function HomePage() {
     {
       name: "Riya Sharma",
       role: "Student",
-      review: "Placify helped me practice interviews with real-time feedback. I felt more confident and prepared!",
+      review: "PrepNOVA helped me practice interviews with real-time feedback. I felt more confident and prepared!",
     },
     {
       name: "Amit Verma",
@@ -23,12 +23,12 @@ function HomePage() {
     <>
       <section className='hero'>
         <div className="hero-title">
-          <h1>PLACIFY</h1>
+          <h1>PrepNOVA</h1>
           <span className="grad-cap">🎓</span>
         </div>
         <h2>The Power To Place You Ahead</h2>
         <p>
-          Placify empowers you with interview preparation, real-time analytics, and personalized learning tools to help you ace your interviews and grow your career.
+          PrepNOVA empowers you with interview preparation, real-time analytics, and personalized learning tools to help you ace your interviews and grow your career.
         </p>
         <Link to='/login' className='cta-button'>
           Get Started
@@ -37,7 +37,7 @@ function HomePage() {
 
 
       <section className='features'>
-        <h2>WHAT IS THERE IN PLACIFY?</h2>
+        <h2>WHAT IS THERE IN PrepNOVA?</h2>
         <div className='features-grid'>
           <div className='feature-card'>
             <div className='feature-icon'>🎯</div>
@@ -91,7 +91,7 @@ function HomePage() {
           <div className='contact-card'>
             <span className='contact-icon'>📧</span>
             <p>Email</p>
-            <p className='contact-info'>support@placify.com</p>
+            <p className='contact-info'>support@prepnova.com</p>
           </div>
           <div className='contact-card'>
             <span className='contact-icon'>📞</span>
@@ -101,7 +101,7 @@ function HomePage() {
           <div className='contact-card'>
             <span className='contact-icon'>🌐</span>
             <p>Website</p>
-            <p className='contact-info'>www.placify.com</p>
+            <p className='contact-info'>www.prepnova.com</p>
           </div>
         </div>
       </section>

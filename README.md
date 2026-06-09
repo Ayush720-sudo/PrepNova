@@ -1,4 +1,4 @@
-<H1>Placify is website user can do Interview preparation, logical reasoning,etc.
+<H1>PrepNOVA is website user can do Interview preparation, logical reasoning,etc.
 
 ## Getting Started
 
